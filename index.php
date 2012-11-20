@@ -64,6 +64,7 @@
                     <li><a href="http://www.storylane.com/jchen123"><img src="images/storylane_icon.png" alt="" /></a></li>
                     <li><a href="https://github.com/jchen123"><img src="images/github_icon.png" alt="" /></a></li>
                     <li><a href="http://www.youtube.com/user/heavendoveabc"><img src="images/youtube.png" alt="" /></a></li>
+                    <li><a href="http://instagram.com/hellhawk123"><img src="images/instagram-icon.png" alt="" /></a></li>
 				</ul>
 			</div>
 		</div> <!-- end title -->
@@ -177,8 +178,10 @@
 			</div> <!-- end sixteen columns -->
 
 			<div class="eight columns">
-				<p class="white">Send all inquiries to jchen123 AT gmail.com.</p>
-			</div> 
+                <div class="contact-info">
+                    <p class="white"><img src="images/icn-email.png" alt="" />  jchen123 AT gmail.com</p>
+                </div>
+			</div>
 
 			<div class="sixteen columns">
 				<div class="copyright">
