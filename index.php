@@ -66,7 +66,7 @@
                     <li><a href="https://github.com/jchen123"><img src="images/github_icon.png" alt="" /></a></li>
                     <li><a href="http://www.youtube.com/user/heavendoveabc"><img src="images/youtube.png" alt="" /></a></li>
                     <li><a href="http://instagram.com/hellhawk123"><img src="images/instagram-icon.png" alt="" /></a></li>
-                    <li><a href="http://arelentlesspursuitof.tumblr.com"><img src="images/tumblr-icon.png" alt="" /></a></li>
+                    <li><a href="http://blog.jeffzchen.com"><img src="images/tumblr-icon.png" alt="" /></a></li>
 				</ul>
 			</div>
 		</div> <!-- end title -->
@@ -80,7 +80,7 @@
             <li><a href="#resume">Resume</a></li>
             <li><a href="#work">Work</a></li>
 			<li><a href="#contact">Contact</a></li>
-            <li><a href="http://arelentlesspursuitof.tumblr.com/">Blog</a></li>
+            <li><a href="http://blog.jeffzchen.com/">Blog</a></li>
 		</ul>
 		
 		<select name="dropdpown" size="1" onChange="scrollTo(this.value)">
@@ -106,6 +106,7 @@
                 <p >Proud alumnus of <a href="http://www.cee.org/research-science-institute">Research Science Institute</a>.<p>
                 <p >B.S. at <a href="web.mit.edu">MIT</a> in Computer Science and Mathematics in 2012.<p>
                 <p >English, Castellano Spanish, Mandarin Chinese.<p><br>
+                <p>I believe in the beauty in efficiency.  Ironically, I am highly obsessive compulsive.</p><br>
                 <p >Download my <a href="http://dl.dropbox.com/u/355677/JeffResume.pdf">resume</a>.<p>
             </div>
 
@@ -134,8 +135,8 @@
 
             <div class="portfolio">
 
-				<div class="one-third column">
-					<img src="images/fbjob.png" class="scale-with-grid" alt="" />
+                <div class="one-third column">
+					<a href="images/fbjob.png" rel="prettyPhoto" title="some shit over and over again. i did this and that and this and that and this and that."><img src="images/fbjob.png" class="scale-with-grid" alt="" /></a>
 					<p class="proj-title">Facebook</p>
 					<p class="proj-desc">Traffic Infrastructure</p>
 				</div> <!-- end one-third column -->
