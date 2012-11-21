@@ -106,7 +106,6 @@
                 <p >Proud alumnus of <a href="http://www.cee.org/research-science-institute">Research Science Institute</a>.<p>
                 <p >B.S. at <a href="web.mit.edu">MIT</a> in Computer Science and Mathematics in 2012.<p>
                 <p >English, Castellano Spanish, Mandarin Chinese.<p><br>
-                <p>I believe in the beauty of efficiency.  Ironically, I am highly obsessive compulsive.</p><br>
                 <p >Download my <a href="http://dl.dropbox.com/u/355677/JeffResume.pdf">resume</a>.<p>
             </div>
 
