@@ -67,6 +67,7 @@
                     <li><a href="http://www.youtube.com/user/heavendoveabc"><img src="images/youtube.png" alt="" /></a></li>
                     <li><a href="http://instagram.com/hellhawk123"><img src="images/instagram-icon.png" alt="" /></a></li>
                     <li><a href="http://blog.jeffzchen.com"><img src="images/tumblr-icon.png" alt="" /></a></li>
+                    <li><a href="http://open.spotify.com/user/hellhawk123"><img src="images/spotify.png" alt="" /></a></li>
 				</ul>
 			</div>
 		</div> <!-- end title -->
@@ -89,7 +90,7 @@
             <option value="#about">About</option>
             <option value="#resume">Resume</option>
             <option value="#work">Work</option>
-			<option value="#contact">Contact</option>
+            <option value="#contact">Contact</option>
         </select>
 	</nav>
 
@@ -106,7 +107,15 @@
                 <p >Proud alumnus of <a href="http://www.cee.org/research-science-institute">Research Science Institute</a>.<p>
                 <p >B.S. at <a href="web.mit.edu">MIT</a> in Computer Science and Mathematics in 2012.<p>
                 <p >English, Castellano Spanish, Mandarin Chinese.<p><br>
-                <p >Download my <a href="http://dl.dropbox.com/u/355677/JeffResume.pdf">resume</a>.<p>
+                <p >Download my <a href="http://dl.dropbox.com/u/355677/JeffResume.pdf">resume</a>.<p><br><br>
+
+                <p>Recently I've started to learn how to DJ.  Check out my mixcloud <a href="http://www.mixcloud.com/supaflytnt/">here</a>.</p>
+
+                <p>Most recently I DJ'd for the Facebook 1 billion party.</p>
+                <p>If you're in the bay area and want to book me, shoot me an email!</p>
+                <p>I occasionally do mashups, rap, and make beats.  Check out my <a href="http://soundcloud.com/supaflytnt">soundcloud</a>.</p>
+
+                <p>I volunteer for the <a href="http://www.sfspca.org">SF SPCA</a>.  They're a great humane society for animal adoption, check them out!</p>
             </div>
 
             <div class="eight columns">
@@ -116,8 +125,9 @@
         </div> <!-- end container -->
     </div> <!-- end about -->
 
-    <div id="separator3">
-        <div class="bg4"></div>
+    <div id="separator1">
+        <div class="bg2"></div>
+        <p class="separator">You can tell how smart people are by what they laugh at. - Tina Fey</p>
     </div>
 
 	<div id="work">
@@ -214,11 +224,11 @@
 
         </div> <!-- end container -->
 	</div> <!-- work -->
-	
-	
-	<div id="separator1">
-		<div class="bg2"></div>
-	</div>
+
+    <div id="separator2">
+        <div class="bg3"></div>
+        <p class="separator">The game is rigged, man. We like them little bitches on the chessboard.<br /> - Bodie Broadus</p>
+    </div>
 
 	<div id="contact">
 		<div class="container">
