@@ -79,8 +79,12 @@ h4 {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 36px;
 	font-weight: 600;
-	color: #fff;
+    color: #fff;
 	text-transform: uppercase;
+}
+
+h4.black {
+    color: #434343;
 }
 
 h5 {

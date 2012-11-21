@@ -2,7 +2,8 @@
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html"> <!--<![endif]-->
 <head>
 
 	<!-- Basic Page Needs
@@ -124,9 +125,14 @@
 			<div class="sixteen columns">
 				<h2><span class="lines">Work</span></h2>
 			</div> <!-- end sixteen columns -->
-			
-			<div class="portfolio">
-			
+
+            <div class="sixteen columns">
+                <h3><span class="lines">Portfolio</span></h3>
+                <p>&nbsp;</p>
+            </div> <!-- end sixteen columns -->
+
+            <div class="portfolio">
+
 				<div class="one-third column">
 					<img src="images/fbjob.png" class="scale-with-grid" alt="" />
 					<p class="proj-title">Facebook</p>
@@ -166,7 +172,45 @@
 				</div> <!-- end one-third column -->
 			
 			</div> <!-- end portfolio -->
-		</div> <!-- end container -->
+
+            <div class="sixteen columns">
+                <h3><span class="lines">Facebook</span></h3>
+                <p>&nbsp;</p>
+                <p>I worked as a production engineer on the Traffic Infrastructure team, helping automate clusters and tinker with DNS/HTTP/reverse proxies.</p>
+                <p>&nbsp;</p>
+            </div> <!-- end sixteen columns -->
+
+            <div class="sixteen columns">
+                <h3><span class="lines">Massachusetts Institute of Technology</span></h3>
+                <p>&nbsp;</p>
+                <p>I interned at <a href="http://www.magnetic.com/magnetic-acquires-adnamic-for-new-platform-technology/">Qwobl</a> (now Adnamic, acquired by Magnetic), <a href="http://www.monster.com">Monster</a>, <a href="http://www.oracle.com">Oracle</a> and <a href="http://www.tuenti.com">Tuenti</a>.
+                <p>I cofounded a startup, Kakeya, solving the problem of integrating public and private bus and flight routes.</p>
+                <p>I led <a href="http://asians.mit.edu">MIT Asian American Association</a> and <a href="http://techfair.mit.edu">MIT Techfair</a>.</p>
+                <p>I also had a hip hop group, did jiu jitsu and kickboxing, worked for MIT IS&T, wrote for the paper, captained IM soccer, volunteered for ASB.</p>
+                <p>I researched and worked with various MIT labs and professors on electronic textiles and mobile, mental health, and accessibility.</p>
+                <p>&nbsp;</p>
+            </div> <!-- end sixteen columns -->
+
+            <div class="sixteen columns">
+                <h3><span class="lines">Thomas Jefferson High School for Science and Technology</span></h3>
+                <p>&nbsp;</p>
+                <p>At TJ I did a lot of programming competitions, competing in <a href="http://www.usaco.org/">USA Computing Olympiad</a> Gold division, as well as Topcoder.</p>
+                <p>I also lectured and wrote the site for TJ's <a href="http://activities.tjhsst.edu/sct/">Senior Computer Team</a>, as well as the <a href="http://activities.tjhsst.edu/vmt/">Varsity Math Team</a>.</p>
+                <p>I worked at the optics and modern physics lab and the computer systems lab at TJ.  I also interned at the <a href="http://www.nrl.navy.mil/">Naval Research Lab</a> working on augmented reality and polyhedral metamorphosis.
+                Check out my paper <a href="http://dl.dropbox.com/u/355677/PolyhedralMetamorphosisPaper.pdf">here</a>.</p>
+                <p>Junior summer I was accepted into <a href="http://www.cee.org/research-science-institute">RSI</a>, working on real time speech recognition.  My <a href="http://dl.dropbox.com/u/355677/SpeechRecognitionPaper.pdf">paper</a> won Top 10 papers at RSI and semifinalist in siemens westinghouse and Intel STS.</p>
+                <p>&nbsp;</p>
+            </div> <!-- end sixteen columns -->
+
+            <div class="sixteen columns">
+                <h3><span class="lines">Rocky Run Middle School</span></h3>
+                <p>&nbsp;</p>
+                <p>My favorite memories of middle school involved <a href="http://www.odysseyofthemind.com/">Odyssey of the Mind</a>, an incredibly fun creativity problem solving competition.  Our team participated in three different years, winning 10th, 5th and 3rd at World Finals and the Ranatra Fusca award for extreme creativity twice.
+                    During these years, we built modtorized vehicles that could transport team members and play sports, two story housing sets that made paintings come to life, and tons of other crazy contraptions.</p>
+                <p>I also played a lot of flute and <a href="http://www.ncsl-soccer.com/">NCSL</a> soccer.</p>
+            </div> <!-- end sixteen columns -->
+
+        </div> <!-- end container -->
 	</div> <!-- work -->
 	
 	
