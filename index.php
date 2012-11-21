@@ -66,6 +66,7 @@
                     <li><a href="https://github.com/jchen123"><img src="images/github_icon.png" alt="" /></a></li>
                     <li><a href="http://www.youtube.com/user/heavendoveabc"><img src="images/youtube.png" alt="" /></a></li>
                     <li><a href="http://instagram.com/hellhawk123"><img src="images/instagram-icon.png" alt="" /></a></li>
+                    <li><a href="http://arelentlesspursuitof.tumblr.com"><img src="images/tumblr-icon.png" alt="" /></a></li>
 				</ul>
 			</div>
 		</div> <!-- end title -->
@@ -174,6 +175,7 @@
 			</div> <!-- end portfolio -->
 
             <div class="sixteen columns">
+                <p>&nbsp;</p>
                 <h3><span class="lines">Facebook</span></h3>
                 <p>&nbsp;</p>
                 <p>I worked as a production engineer on the Traffic Infrastructure team, helping automate clusters and tinker with DNS/HTTP/reverse proxies.</p>
