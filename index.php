@@ -183,7 +183,7 @@
 
 			<div class="eight columns">
                 <div class="contact-info">
-                    <p class="white"><img src="images/icn-email.png" alt="" />  jchen123 AT gmail.com</p>
+                    <p class="white"><img src="images/icn-email.png" alt="" />  For all inquiries, email me at jchen123 AT gmail.com</p>
                 </div>
 			</div>
 
