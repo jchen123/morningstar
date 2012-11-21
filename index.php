@@ -97,15 +97,19 @@
             <div class="sixteen columns">
                 <h2><span class="lines">About</span></h2>
             </div> <!-- end sixteen columns -->
-
-            <div id="resume" class="eight columns">
-                <p >Born in <a href="http://goo.gl/maps/UOYIZ">Beijing, China</a>, grew up in <a href="http://goo.gl/maps/pvZwR">Northern Virginia</a>.
+						
+			<div id="resume" class="eight columns" align="right">
+				<p >Born in <a href="http://goo.gl/maps/UOYIZ">Beijing, China</a>, grew up in <a href="http://goo.gl/maps/pvZwR">Northern Virginia</a>.
                 <p >Proud alumnus of <a href="http://www.tjhsst.edu/">Thomas Jefferson High School for Science and Technology</a>.<p>
                 <p >Proud alumnus of <a href="http://www.cee.org/research-science-institute">Research Science Institute</a>.<p>
                 <p >B.S. at <a href="web.mit.edu">MIT</a> in Computer Science and Mathematics in 2012.<p>
                 <p >English, Castellano Spanish, Mandarin Chinese.<p><br>
                 <p >Download my <a href="http://dl.dropbox.com/u/355677/JeffResume.pdf">Resume</a>.<p>
             </div>
+
+            <div class="eight columns">
+			    <img src="images/me.png" alt="" />
+			</div>
 
         </div> <!-- end container -->
     </div> <!-- end about -->
