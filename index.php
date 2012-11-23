@@ -186,6 +186,13 @@
 
             <div class="sixteen columns">
                 <p>&nbsp;</p>
+                <h3><span class="lines">Pixlee</span></h3>
+                <p>&nbsp;</p>
+                <p>To be determined...</p>
+            </div> <!-- end sixteen columns -->
+
+            <div class="sixteen columns">
+                <p>&nbsp;</p>
                 <h3><span class="lines">Facebook</span></h3>
                 <p>&nbsp;</p>
                 <p>I worked as a production engineer on the Traffic Infrastructure team, helping automate clusters and tinker with DNS/HTTP/reverse proxies.</p>
