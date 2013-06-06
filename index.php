@@ -54,7 +54,7 @@
 			<div class="intro-line"></div>
 			<h1 class="small">Jeff Zhifan Chen</h1>
 			<div class="intro-line"></div>
-			<p>Software Engineer living in San Francisco.<br> I love to code, DJ, produce music, write, and explore.<br>My goal is to improve people's lives.</p>
+			<p>Co-founder and Lead Engineer @ Pixlee.</p>
 			<div class="social-intro">
 				<ul>
 					<li><a href="https://twitter.com/jeffzchen"><img src="images/icn-twitter-intro.png" alt="" /></a></li>
@@ -62,7 +62,6 @@
 					<li><a href="http://www.linkedin.com/pub/jeff-chen/14/190/826"><img src="images/icn-linkedin-intro.png" alt="" /></a></li>
                     <li><a href="http://soundcloud.com/supaflytnt"><img src="images/soundcloud-icon.png" alt="" /></a></li>
                     <li><a href="http://www.mixcloud.com/supaflytnt/"><img src="images/mixcloud_icon.png" alt="" /></a></li>
-                    <li><a href="http://www.storylane.com/jchen123"><img src="images/storylane_icon.png" alt="" /></a></li>
                     <li><a href="https://github.com/jchen123"><img src="images/github_icon.png" alt="" /></a></li>
                     <li><a href="http://www.youtube.com/user/heavendoveabc"><img src="images/youtube.png" alt="" /></a></li>
                     <li><a href="http://instagram.com/hellhawk123"><img src="images/instagram-icon.png" alt="" /></a></li>
@@ -102,20 +101,10 @@
             </div> <!-- end sixteen columns -->
 						
 			<div id="resume" class="eight columns" align="right">
-				<p >Born in <a href="http://goo.gl/maps/UOYIZ">Beijing, China</a>, grew up in <a href="http://goo.gl/maps/pvZwR">Northern Virginia</a>.
                 <p >Proud alumnus of <a href="http://www.tjhsst.edu/">Thomas Jefferson High School for Science and Technology</a>.<p>
                 <p >Proud alumnus of <a href="http://www.cee.org/research-science-institute">Research Science Institute</a>.<p>
                 <p >B.S. at <a href="web.mit.edu">MIT</a> in Computer Science and Mathematics in 2012.<p>
                 <p >English, Castellano Spanish, Mandarin Chinese.<p><br>
-                <p >Download my <a href="http://dl.dropbox.com/u/355677/JeffResume.pdf">resume</a>.<p><br><br>
-
-                <p>Recently I've started to learn how to DJ.  Check out my mixcloud <a href="http://www.mixcloud.com/supaflytnt/">here</a>.</p>
-
-                <p>Most recently I DJ'd for the Facebook 1 billion party.</p>
-                <p>If you're in the bay area and want to book me, shoot me an email!</p>
-                <p>I occasionally do mashups, rap, and make beats.  Check out my <a href="http://soundcloud.com/supaflytnt">soundcloud</a>.</p>
-
-                <p>I volunteer for the <a href="http://www.sfspca.org">SF SPCA</a>.  They're a great humane society for animal adoption, check them out!</p>
             </div>
 
             <div class="eight columns">
@@ -188,7 +177,7 @@
                 <p>&nbsp;</p>
                 <h3><span class="lines">Pixlee</span></h3>
                 <p>&nbsp;</p>
-                <p>To be determined...</p>
+                <p>We help brands market through user generated photos.  Check us out here: <a href="https://www.pixlee.com">Pixlee.com</a></p>
             </div> <!-- end sixteen columns -->
 
             <div class="sixteen columns">
