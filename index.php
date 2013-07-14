@@ -54,7 +54,7 @@
 			<div class="intro-line"></div>
 			<h1 class="small">Jeff Zhifan Chen</h1>
 			<div class="intro-line"></div>
-			<p>Co-founder and Lead Engineer @ Pixlee.</p>
+			<p>Co-Founder & Lead Developer at Pixlee. MIT '12, Facebook '12, RSI '07. A yellow belt at everything.</p>
 			<div class="social-intro">
 				<ul>
 					<li><a href="https://twitter.com/jeffzchen"><img src="images/icn-twitter-intro.png" alt="" /></a></li>
@@ -101,10 +101,7 @@
             </div> <!-- end sixteen columns -->
 						
 			<div id="resume" class="eight columns" align="right">
-                <p >Proud alumnus of <a href="http://www.tjhsst.edu/">Thomas Jefferson High School for Science and Technology</a>.<p>
-                <p >Proud alumnus of <a href="http://www.cee.org/research-science-institute">Research Science Institute</a>.<p>
-                <p >B.S. at <a href="web.mit.edu">MIT</a> in Computer Science and Mathematics in 2012.<p>
-                <p >English, Castellano Spanish, Mandarin Chinese.<p><br>
+				<p>Getting things done in algorithms, ML, and distributed systems. Love working and meeting bright, ambitious engineers.</p>
             </div>
 
             <div class="eight columns">
@@ -116,7 +113,6 @@
 
     <div id="separator1">
         <div class="bg2"></div>
-        <p class="separator">You can tell how smart people are by what they laugh at. - Tina Fey</p>
     </div>
 
 	<div id="work">
@@ -181,14 +177,6 @@
             </div> <!-- end sixteen columns -->
 
             <div class="sixteen columns">
-                <p>&nbsp;</p>
-                <h3><span class="lines">Facebook</span></h3>
-                <p>&nbsp;</p>
-                <p>I worked as a production engineer on the Traffic Infrastructure team, helping automate clusters and tinker with DNS/HTTP/reverse proxies.</p>
-                <p>&nbsp;</p>
-            </div> <!-- end sixteen columns -->
-
-            <div class="sixteen columns">
                 <h3><span class="lines">Massachusetts Institute of Technology</span></h3>
                 <p>&nbsp;</p>
                 <p>I interned at <a href="http://www.magnetic.com/magnetic-acquires-adnamic-for-new-platform-technology/">Qwobl</a> (now Adnamic, acquired by Magnetic), <a href="http://www.monster.com">Monster</a>, <a href="http://www.oracle.com">Oracle</a> and <a href="http://www.tuenti.com">Tuenti</a>.
@@ -210,20 +198,11 @@
                 <p>&nbsp;</p>
             </div> <!-- end sixteen columns -->
 
-            <div class="sixteen columns">
-                <h3><span class="lines">Rocky Run Middle School</span></h3>
-                <p>&nbsp;</p>
-                <p>My favorite memories of middle school involved <a href="http://www.odysseyofthemind.com/">Odyssey of the Mind</a>, an incredibly fun creativity problem solving competition.  Our team participated in three different years, winning 10th, 5th and 3rd at World Finals and the Ranatra Fusca award for extreme creativity twice.
-                    During these years, we built modtorized vehicles that could transport team members and play sports, two story housing sets that made paintings come to life, and tons of other crazy contraptions.</p>
-                <p>I also played a lot of flute and <a href="http://www.ncsl-soccer.com/">NCSL</a> soccer.</p>
-            </div> <!-- end sixteen columns -->
-
         </div> <!-- end container -->
 	</div> <!-- work -->
 
     <div id="separator2">
         <div class="bg3"></div>
-        <p class="separator">The game is rigged, man. We like them little bitches on the chessboard.<br /> - Bodie Broadus</p>
     </div>
 
 	<div id="contact">
