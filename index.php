@@ -54,7 +54,7 @@
 			<div class="intro-line"></div>
 			<h1 class="small">Jeff Zhifan Chen</h1>
 			<div class="intro-line"></div>
-			<p>Co-Founder & Lead Developer at Pixlee. MIT '12, Facebook '12, RSI '07. A yellow belt at everything.</p>
+			<p>Co-Founder & Lead Developer at Pixlee.</p><p>MIT '12, Facebook '12, RSI '07. A yellow belt at everything.</p>
 			<div class="social-intro">
 				<ul>
 					<li><a href="https://twitter.com/jeffzchen"><img src="images/icn-twitter-intro.png" alt="" /></a></li>
